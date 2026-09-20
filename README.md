@@ -119,3 +119,16 @@ Open the database with any SQLite-compatible command-line tool and execute the S
 **Moksha Manisha**
 
 This project was created as a SQL data analytics portfolio project.
+## Screenshots
+
+### 1. Category Revenue
+![Category Revenue](screenshots/category_revenue.png)
+
+### 2. Top Customers
+![Top Customers](screenshots/top_customers.png)
+
+### 3. Top Movies
+![Top Movies](screenshots/top_movies.png)
+
+### 4. Total Revenue
+![Total Revenue](screenshots/total_revenue.png)
