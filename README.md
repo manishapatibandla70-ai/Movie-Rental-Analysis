@@ -116,6 +116,6 @@ Open the database with any SQLite-compatible command-line tool and execute the S
 
 ## 👩‍💻 Author
 
-**Moksha**
+**Moksha Manisha**
 
 This project was created as a SQL data analytics portfolio project.
